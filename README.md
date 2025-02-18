@@ -18,4 +18,4 @@ Build a model to predict which customers are likely to book with British Airways
 
 
 
-https://www.theforage.com/simulations/british-airways/data-science-yqoz
+[Credits](https://www.theforage.com/simulations/british-airways/data-science-yqoz)
